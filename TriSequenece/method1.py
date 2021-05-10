@@ -20,6 +20,6 @@ def getSeqTerm(n):
         nextTerm = nextVal(nextTerm)
     return nextTerm
 
-print('4th term is ',getSeqTerm(4))
-print('10th term is ',getSeqTerm(10))
+print('4th term is ',getSeqTerm(4)) # 11
+print('10th term is ',getSeqTerm(10)) # 41
 
