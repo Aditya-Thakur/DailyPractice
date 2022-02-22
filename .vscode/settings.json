@@ -1,0 +1,8 @@
+{
+    "java.project.sourcePaths": [
+        "leetcode/removeDuplicates",
+        "leetcode/Array/removeDuplicates",
+        "leetcode/Array/remove-duplicates",
+        "leetcode/Array/q1"
+    ]
+}
